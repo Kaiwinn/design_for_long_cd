@@ -32,7 +32,6 @@ class Body extends StatelessWidget {
                               margin:
                                   const EdgeInsets.only(left: 18, right: 10),
                               child: Image(
-                                // cách cấu hình asset
                                 image: AssetImage('assets/search.png'),
                                 width: 23,
                                 height: 23,
