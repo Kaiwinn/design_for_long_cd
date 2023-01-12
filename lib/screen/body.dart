@@ -40,7 +40,7 @@ class Body extends StatelessWidget {
                             ),
                             SizedBox(
                                 height: 45,
-                                width: size.width * 1 - 139, //??? tính như qq
+                                width: size.width * 1 - 139,
                                 child: TextField(
                                   decoration: InputDecoration(
                                     hintText: "Search...",
